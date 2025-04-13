@@ -1,0 +1,12 @@
+C:\Users\fredr\Rust\collabweb\target\debug\deps\libbase16ct-9321e7e42aacba36.rmeta: C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lib.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lower.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\mixed.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\upper.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\display.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\error.rs
+
+C:\Users\fredr\Rust\collabweb\target\debug\deps\libbase16ct-9321e7e42aacba36.rlib: C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lib.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lower.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\mixed.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\upper.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\display.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\error.rs
+
+C:\Users\fredr\Rust\collabweb\target\debug\deps\base16ct-9321e7e42aacba36.d: C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lib.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lower.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\mixed.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\upper.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\display.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\error.rs
+
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lib.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\lower.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\mixed.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\upper.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\display.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.1.1\src\error.rs:

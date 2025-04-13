@@ -1,0 +1,12 @@
+C:\Users\fredr\Rust\collabweb\target\debug\deps\libsignature-3ffd05d1ddba6308.rmeta: C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\hazmat.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md
+
+C:\Users\fredr\Rust\collabweb\target\debug\deps\signature-3ffd05d1ddba6308.d: C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\hazmat.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md
+
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\hazmat.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs:
+C:\Users\fredr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md:

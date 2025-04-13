@@ -1,0 +1,18 @@
+services:
+  #server:
+  #  build: .
+  #  ports:
+  #    - "3000:3000"
+
+  minio:
+    image: minio/minio:latest
+    ports:
+      - "9000:9000"
+      - "9090:9090"
+    environment:
+      MINIO_CONSOLE_ADDRESS: ":9090"
+    volumes:
+      - 'minio_data:/data'
+    command: server /data
+volumes:
+  minio_data:
