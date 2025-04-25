@@ -1,0 +1,12 @@
+name: simpleflow
+
+on:
+  push
+    branches:
+      - main
+
+jobs:
+  simpleflow:
+    name: flow simple
+    runs-on: ubuntu-latest
+    
